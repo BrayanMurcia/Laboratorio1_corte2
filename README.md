@@ -17,3 +17,4 @@ El objetivo es comprender cómo funciona el flujo de trabajo con diferentes rama
 
 
 Cambio 1: Para realizar push
+Cambio 2: Parar realizar pull
