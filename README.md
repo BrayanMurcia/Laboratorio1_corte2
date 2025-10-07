@@ -14,3 +14,6 @@ El objetivo es comprender cómo funciona el flujo de trabajo con diferentes rama
 - Trabajar en archivos diferentes en cada rama.  
 - Realizar **commits** en las ramas creadas.  
 - Visualizar cómo se organizan los cambios entre ramas.  
+
+
+Cambio 1: Para realizar push
